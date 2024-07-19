@@ -10,9 +10,11 @@ Para este escenario el HASONEVALUE, es aplicado con la segmentación de datos, y
 	BLANK()    
  )
 ```
-
-![image](https://github.com/user-attachments/assets/fee2b1ce-0f09-4f9f-a0a6-ac67bf1eff45)
+![https://github.com/user-attachments/assets/fee2b1ce-0f09-4f9f-a0a6-ac67bf1eff45]
 ![image](https://github.com/user-attachments/assets/0ae6f5ae-d1bb-49dc-ad1a-848b221b7e5e)
+
+
+<img src="https://github.com/user-attachments/assets/fee2b1ce-0f09-4f9f-a0a6-ac67bf1eff45" width="200" height="200"> <img src="https://github.com/user-attachments/assets/0ae6f5ae-d1bb-49dc-ad1a-848b221b7e5e" width="200" height="200">
 
 
 
