@@ -4,9 +4,8 @@
 Para este escenario el HASONEVALUE, es aplicado con la segmentación de datos, ya que esta haciendo referencia a la columna [Tipo Escenario] de la tabla parametros, donde si es único, podremos aplicar la siguiente operación. Los valores de [porcentaje.decimal], ayudan en dar un proyectado sobre la medida [VentaTotal].
 
 ```
-=IF(HASONEVALUE(parametros[Tipo Escenario]);    
-	[VentaTotal]*    
- (1+VALUES(parametros[porcentaje.decimal]));    
+=IF(HASONEVALUE(parametros[Tipo Escenario]); //Si tiene un solo valor es TRUE    
+	[VentaTotal] * (1+VALUES(parametros[porcentaje.decimal]));  //Operación en caso sea TRUE      
 	BLANK()    
  )
 ```
