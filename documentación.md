@@ -10,3 +10,10 @@ Para este escenario el HASONEVALUE, es aplicado con la segmentación de datos, y
  )
 ```
 [01.HasoneValue_KPIS.xlsx](https://github.com/user-attachments/files/16302996/01.HasoneValue_KPIS.xlsx)
+
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Cell 2   | Cell 3   |
+| Row 2    | Cell 5   | Cell 6   |
+| Row 3    | Cell 8   | Cell 9   |
